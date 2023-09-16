@@ -1,3 +1,5 @@
+
+
 I considered the following principles of OOP
 The aspect of abstraction is explored by only displaying information to the screen that is
 required for the user to play the game as intended - prompt for commands, responses to commands,

@@ -1,5 +1,6 @@
 Extra Implementation for the Bot Player:
-
+- mimics the player, will actively look for and pick up gold, with the priority of chasing down the player
+- pathing calculated each time after 'look' command to view surroundings
 
 
 I considered the following principles of **Object Oriented Programming**
